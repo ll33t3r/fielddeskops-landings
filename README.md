@@ -12,6 +12,17 @@ These serve as real HTML today via raw.githack:
 - https://raw.githack.com/ll33t3r/fielddeskops-landings/main/roofers.html
 - https://raw.githack.com/ll33t3r/fielddeskops-landings/main/affiliates.html
 
+Same pages under `/kit/` (mirrors production URLs):
+
+- https://raw.githack.com/ll33t3r/fielddeskops-landings/main/kit/painters.html
+- https://raw.githack.com/ll33t3r/fielddeskops-landings/main/kit/hvac.html
+- https://raw.githack.com/ll33t3r/fielddeskops-landings/main/kit/roofers.html
+
+jsDelivr mirrors:
+
+- https://cdn.jsdelivr.net/gh/ll33t3r/fielddeskops-landings@main/painters.html
+- https://cdn.jsdelivr.net/gh/ll33t3r/fielddeskops-landings@main/kit/painters.html
+
 Share those while production `/kit/painters` etc still 404.
 
 ## When GitHub Pages is enabled
