@@ -1,6 +1,6 @@
 # FieldDeskOps landings (Netlify bypass)
 
-Static trade Kit + affiliates pages while `fielddeskops.com` production is stuck on an older deploy and Netlify credits block new builds.
+Static trade Kit + Reviews + affiliates pages while `fielddeskops.com` production is stuck on an older deploy and Netlify credits block new builds.
 
 ## Live right now (no Pages / no Netlify needed)
 
@@ -11,6 +11,7 @@ These serve as real HTML today via raw.githack:
 - https://raw.githack.com/ll33t3r/fielddeskops-landings/main/hvac.html
 - https://raw.githack.com/ll33t3r/fielddeskops-landings/main/roofers.html
 - https://raw.githack.com/ll33t3r/fielddeskops-landings/main/affiliates.html
+- https://raw.githack.com/ll33t3r/fielddeskops-landings/main/reviews.html
 
 Same pages under `/kit/` (mirrors production URLs):
 
@@ -18,10 +19,17 @@ Same pages under `/kit/` (mirrors production URLs):
 - https://raw.githack.com/ll33t3r/fielddeskops-landings/main/kit/hvac.html
 - https://raw.githack.com/ll33t3r/fielddeskops-landings/main/kit/roofers.html
 
+Reviews trade mirrors (`$9.99/mo` plan):
+
+- https://raw.githack.com/ll33t3r/fielddeskops-landings/main/reviews/painters.html
+- https://raw.githack.com/ll33t3r/fielddeskops-landings/main/reviews/hvac.html
+- https://raw.githack.com/ll33t3r/fielddeskops-landings/main/reviews/roofers.html
+
 jsDelivr mirrors:
 
 - https://cdn.jsdelivr.net/gh/ll33t3r/fielddeskops-landings@main/painters.html
-- https://cdn.jsdelivr.net/gh/ll33t3r/fielddeskops-landings@main/kit/painters.html
+- https://cdn.jsdelivr.net/gh/ll33t3r/fielddeskops-landings@main/reviews.html
+- https://cdn.jsdelivr.net/gh/ll33t3r/fielddeskops-landings@main/reviews/painters.html
 
 Share those while production `/kit/painters` etc still 404.
 
@@ -30,7 +38,7 @@ Share those while production `/kit/painters` etc still 404.
 Settings → Pages → Source: **GitHub Actions**, then:
 
 - https://ll33t3r.github.io/fielddeskops-landings/
-- …/painters.html · …/hvac.html · …/roofers.html · …/affiliates.html
+- …/painters.html · …/hvac.html · …/roofers.html · …/affiliates.html · …/reviews.html
 
 Prefer publishing Netlify preview `6a93b07ab12880000839e5d4` to production when credits/login allow — restore only, no new build.
 
