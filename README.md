@@ -47,3 +47,8 @@ Prefer publishing Netlify preview `6a93b07ab12880000839e5d4` to production when 
 - Review Kit $29: https://whop.com/checkout/plan_jAVrFtMQJes3t
 - Reviews $9.99/mo (7-day trial): https://whop.com/checkout/plan_a9Kkusw3Dp0mh
 - Pro $19.99/mo (7-day trial): https://whop.com/checkout/plan_9y42aE3d6kic4
+
+## Promo (new users)
+
+- Code **JOBSITE50**: 50% off the first paid month of SiteSnap + SignOff Pro (`plan_9y42aE3d6kic4`), new users only, one use per customer, unlimited stock. Enter at checkout after the 7-day trial starts, or apply in the Whop checkout promo field.
+- Checkout with hint: https://whop.com/checkout/plan_9y42aE3d6kic4?promoCode=JOBSITE50
